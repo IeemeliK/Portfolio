@@ -6,8 +6,11 @@
 </template>
 
 <style>
+* {
+  font-family: 'Roboto', sans-serif;
+}
 body {
-  background-color: black;
+  background-color: darkgray;
   color: white;
 }
 </style>
